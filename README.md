@@ -1,2 +1,2 @@
 # hello-world
-study project
+study project by jinpenga
